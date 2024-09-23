@@ -1,0 +1,1 @@
+The Center for International Earth Science Information Network (CIESIN) is a center within the Columbia Climate School at Columbia University. CIESIN conducts cutting-edge geospatially enabled research and develops interdisciplinary data and systems to advance understanding of human-environment interactions and support public policy and private decision making.
