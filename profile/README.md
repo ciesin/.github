@@ -3,7 +3,7 @@ The Center for Integrate Earth Science Information (CIESIN) is a center within t
 <table>
   <tr>
     <td align="center" style="width:'33%'">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flandportal.org%2Forganization%2Fsocioeconomic-data-and-applications-center&psig=AOvVaw2NpAzExpDNYkg_Lgkb--4j&ust=1730557558064000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCeqLiru4kDFQAAAAAdAAAAABAE" alt="NASA SEDAC" width="100%" height="100%"><br>
+      <img src="assets\NASA-SEDAC.jpg" alt="NASA SEDAC" width="100%" height="100%"><br>
       <a href="https://sedac.ciesin.columbia.edu/">NASA SEDAC</a>
     </td>
     <td align="center" style="width:'33%'">
