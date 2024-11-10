@@ -1,4 +1,4 @@
-The Center for Integrate Earth Science Information (CIESIN) is a center within the Columbia Climate School at Columbia University. CIESIN conducts cutting-edge geospatially enabled research and develops interdisciplinary data and systems to advance understanding of human-environment interactions and support public policy and private decision making.
+The Center for Integrated Earth Science Information (CIESIN) is a center within the Columbia Climate School at Columbia University. CIESIN conducts cutting-edge geospatially enabled research and develops interdisciplinary data and systems to advance understanding of human-environment interactions and support public policy and private decision making.
 
 <table>
   <tr>
